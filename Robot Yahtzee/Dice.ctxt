@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ This\ class\ outlines\ the\ properties\ of\ the\ dice\ object\ (the\ most\ recent\ roll\ and\ \r\n\ its\ number\ of\ sides)\ and\ the\ different\ methods\ that\ can\ be\ used\ to\ roll\ a\ dice\r\n\ and\ get\ the\ value\ of\ the\ most\ recent\ roll\r\n\r\n\ @author\ Evan\ Halverson\r\n\ @version\ 12/24/2022\r\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Dice\ Constructor\r\n\ This\ constructor\ sets\ the\ value\ of\ a\ dice\ to\ a\ randomly\ generated\ number\r\n
+comment2.params=
+comment2.target=void\ reroll()
+comment2.text=\r\n\ Method\ reroll\r\n\ This\ reassigns\ that\ dice's\ value\ by\ randomly\ generating\ a\ new\ value\r\n\r\n
+comment3.params=
+comment3.target=int\ roll()
+comment3.text=\r\n\ Method\ roll\r\n\ This\ method\ generates\ a\ random\ number\ between\ 1\ and\ the\ number\ of\ sides\ on\ the\ dice\ (6)\r\n\r\n\ @return\ the\ randomly\ generated\ int\r\n
+comment4.params=
+comment4.target=int\ getDiceRoll()
+comment4.text=\r\n\ Method\ getDiceRoll\r\n\ This\ is\ a\ getter\ method\ that\ takes\ the\ diceRoll\ value\ stored\ for\ a\ die\ and\ returns\ it\r\n\r\n\ @return\ the\ int\ of\ the\ dice\ object's\ roll\r\n
+numComments=5
